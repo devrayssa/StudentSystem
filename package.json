@@ -1,0 +1,19 @@
+{
+  "name": "mini-projetot7",
+  "version": "1.0.0",
+  "main": "StudentManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrayssa/StudentSystem.git"
+  },
+  "author": "Cael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devrayssa/StudentSystem/issues"
+  },
+  "homepage": "https://github.com/devrayssa/StudentSystem#readme",
+  "description": ""
+}
