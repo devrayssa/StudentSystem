@@ -1,19 +1,23 @@
 {
   "name": "mini-projetot7",
   "version": "1.0.0",
-  "main": "StudentManager.js",
+  "main": "gerenciador.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devrayssa/StudentSystem.git"
+    "url": "git+https://github.com/thiiscael/StudentSystem.git"
   },
   "author": "Cael",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devrayssa/StudentSystem/issues"
+    "url": "https://github.com/thiiscael/StudentSystem/issues"
   },
-  "homepage": "https://github.com/devrayssa/StudentSystem#readme",
-  "description": ""
+  "homepage": "https://github.com/thiiscael/StudentSystem#readme",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
